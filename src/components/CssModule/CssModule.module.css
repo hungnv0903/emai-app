@@ -1,0 +1,33 @@
+body {
+    background-color: #152943;
+}
+
+.menu {
+    width: 50px;
+    height:100% ; 
+    background-color:#0E1F33 ;  
+}
+
+.boxsizing {
+    box-sizing: content-box;
+    padding-right: 0.8vw;
+    
+}
+.folder {
+    width: 114px;
+    height: 100vh;
+    padding: 15px;
+    padding-top: 80px;    
+}
+.contentEmail {
+    width: 100%;
+    background-color: white;
+}
+
+.container {
+    margin: 50px 0px;
+}
+
+.unread {
+    background-color: #E5E7EB;
+}
